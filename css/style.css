@@ -35,14 +35,14 @@ html, body {
 #board div {
     float: left;
     box-sizing: border-box;
-    height: 120px;
-    width: 120px;
+    height: 100px;
+    width: 100px;
     border: solid 2px white;
     display: inline-block;
     margin: 3px;
     font-size: 3em;
     text-align: center;
-    line-height: 120px;
+    line-height: 100px;
     vertical-align: middle;
     cursor: pointer;
     user-select: none;
