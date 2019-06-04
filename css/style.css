@@ -9,6 +9,13 @@ html, body {
     margin: 20px;
 }
 
+.social-pic {
+    height: 100px;
+    border-radius: 400px;
+    border: 2px solid white ;
+    margin: 20px;
+}
+
 /* .btn-primary {
     background: linear-gradient(to bottom, #c9de96 0%,#8ab66b 25%,#398235 100%) ;
     border-color: #8ab66b;
@@ -30,7 +37,7 @@ html, body {
     box-sizing: border-box;
     height: 120px;
     width: 120px;
-    border: solid 3px black;
+    border: solid 2px white;
     display: inline-block;
     margin: 3px;
     font-size: 3em;
